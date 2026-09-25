@@ -1,0 +1,20 @@
+<svg width="144" height="144" viewBox="36 36 144 144" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- Hajj Companion mark: the app icon's middle 72dp (background.svg +
+     foreground.svg from the app's tool/icons), squircle-clipped. -->
+<defs>
+<radialGradient id="bg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(108 100) scale(118)">
+<stop offset="0" stop-color="#11533F"/>
+<stop offset="0.55" stop-color="#0E4938"/>
+<stop offset="1" stop-color="#0A3A2C"/>
+</radialGradient>
+<clipPath id="clip"><rect x="36" y="36" width="144" height="144" rx="32"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="216" height="216" fill="url(#bg)"/>
+<path d="M124.59 152.09L64.9 146.81L64.9 72.94L91.41 63.91L151.1 69.19L151.1 143.06Z" fill="#A8863B"/>
+<path d="M124.59 152.09L64.9 146.81L64.9 72.94L124.59 78.23Z" fill="#C2A14D"/>
+<path d="M124.59 78.23L64.9 72.94L91.41 63.91L151.1 69.19Z" fill="#D9BE7A"/>
+<path d="M64.9 96.58L124.59 101.86L151.1 92.83L151.1 85.44L124.59 94.48L64.9 89.19Z" fill="#1E2B26"/>
+<path d="M117.42 139.64L106.68 138.69L106.68 116.53L117.42 117.48Z" fill="#1E2B26"/>
+</g>
+</svg>
